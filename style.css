@@ -1,0 +1,92 @@
+body,
+html {
+	width: 100%;
+	height: 100%;
+	font-family: "Itim", cursive;
+	background: url(hi-man.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: contain;
+}
+
+.img{
+	width: 80%;
+	height: 80%;
+}
+
+.container{
+	margin-left: 15%;
+}
+
+
+h1 {
+	background-color: rgba(128,128,128, 0.3);
+	font-size: 4em;
+	color:white;
+}
+
+h1:hover{
+       color:rgb(100 0 0);
+
+}
+.space{
+	height: 200px
+}
+ 
+ hr {
+    border-color: rgb(100 0 0);
+    border-width: 4px;
+ }
+
+.hugo{
+	background-color: orange;
+	max-width: 250px;
+	
+	
+}
+
+.james{ 
+height: 10%;
+ }
+
+.btn {
+	border-radius: 300px;
+	font-size: 12px;
+	
+}
+
+.btn-primary {
+    background-color: rgb(100 0 0);
+    border-color: rgb(100 0 0);
+}
+ .btn-primary:hover {
+    background-color: rgb(100 0 0);
+    border-color: rgb(100 0 0);
+    border-width: 4px;
+}
+
+.buffer{
+	height: 25px;
+}
+.klei{
+	height: 5%;
+}
+.chale{ 
+height: 15%; 
+}
+
+p {
+	font-weight:300;
+	color: white;
+	cursor: progress;
+	padding-right: 5%;
+}
+
+.choice{
+	color: orange;
+}
+
+
+
+
